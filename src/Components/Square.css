@@ -4,6 +4,11 @@
     width: 75px;
 }
 
-.selected {
+.square:hover {
+    cursor: pointer;
+}
+
+.note-selected {
     background-color: rgb(104, 176, 224);
 }
+
