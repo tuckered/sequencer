@@ -1,0 +1,10 @@
+.beat-indicator {
+    border: 2px solid #000;
+    height: 10px;
+    width: 75px;
+    background-color: rgb(114, 114, 114);
+}
+
+.beat-selected {
+    background-color: rgba(247, 54, 128, 0.856);
+}
